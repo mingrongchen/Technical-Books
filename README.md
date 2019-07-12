@@ -12,11 +12,25 @@
 
 3、算法图解
 
+4、python data structure
+
+5、算法导论 第三版
+
 ### 编程 （programming）
 
 1、Python编程从入门到实践
 
-2、Swifter
+2、C C++ 函数速查表
+
+3、C Primer Plus 第六版 中文版
+
+4、C++ Primer Plus 第六版 英文版
+
+5、Efficient C++
+
+6、STL源码解析 + STL源码
+
+7、Swifter
 
 ### 机器学习 （machine learning）
 
@@ -38,6 +52,12 @@
 
 1、数学之美——吴军
 
+2、浪潮之巅
+
+3、MATLAB揭秘
+
+4、程序员的数学1、2、3
+
 ### 网络
 
 1、TCP协议流转图
@@ -51,4 +71,6 @@
 2、Docker技术入门与实战
 
 3、Git权威指南
+
+4、progit
 
